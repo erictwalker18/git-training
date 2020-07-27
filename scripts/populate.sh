@@ -23,5 +23,8 @@ url=`curl -H "Authorization: token $(cat token)" "https://github.mmm.com/api/v3/
 # Add all the users to the team
 while read u; do
 	echo $u
-	curl -X PUT -H "Authorization: token $(cat token)" "$url/$u"
+	msg=`curl -X PUT -H "Authorization: token $(cat token)" "$url/$u" | jq -r .message`
+	if [[ "$msg" == "Not Found" ]]; then
+		echo $u >> no-github.txt
+	fi
 done < users.txt
