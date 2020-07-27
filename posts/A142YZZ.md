@@ -1,10 +1,5 @@
 # A142YZZ's Page
 
-![evil-toddler](https://cloud.githubusercontent.com/assets/16547949/25400815/c5847ecc-29c1-11e7-9c5d-05d4a6726545.jpg)
-
-<Enter a phrase describing the above image>
-# A142YZZ's Page
-
-![first-day-on-the-internet](https://cloud.githubusercontent.com/assets/16547949/25400874/eca2ebce-29c1-11e7-969d-de87b82a7061.jpg)
+![winter-is-coming](https://cloud.githubusercontent.com/assets/16547949/25401218/203cc85a-29c3-11e7-8bbf-8c7d4a6b81b2.jpg)
 
 <Enter a phrase describing the above image>

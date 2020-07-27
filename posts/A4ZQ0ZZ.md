@@ -1,10 +1,5 @@
 # A4ZQ0ZZ's Page
 
-![homer-hide](https://cloud.githubusercontent.com/assets/16547949/25400902/0a553f14-29c2-11e7-9a40-8d14136b4fa3.jpg)
-
-<Enter a phrase describing the above image>
-# A4ZQ0ZZ's Page
-
-![homer-hide](https://cloud.githubusercontent.com/assets/16547949/25400902/0a553f14-29c2-11e7-9a40-8d14136b4fa3.jpg)
+![spongebob-rainbow](https://cloud.githubusercontent.com/assets/16547949/25401179/038f12ee-29c3-11e7-8362-f92422b7da35.jpg)
 
 <Enter a phrase describing the above image>
